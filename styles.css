@@ -1,0 +1,43 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.first-quad {
+    display: flex;
+}
+
+.second-quad {
+    display: flex;
+}
+
+.left-but {
+    display: flex;
+    flex-direction: column;
+}
+
+#quote {
+    text-align: left;
+}
+a {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.images {
+    display: flex;
+    text-align: center;
+}
+
+.third-quad {
+    display: flex;
+}
+
+.fourth-quad {
+    display: flex;
+}
+
+.left-im {
+    display: flex;
+    flex-direction: column;
+}
